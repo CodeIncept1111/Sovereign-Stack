@@ -3,7 +3,7 @@
 
 ![License: CC-BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)
 ![Status: ARCHITECTURAL SPECIFICATION](https://img.shields.io/badge/Status-Protocol_Spec-red.svg)
-![DOI](https://zenodo.org/badge/DOI/PENDING.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17686537.svg)](https://doi.org/10.5281/zenodo.17686537)
 
 > **"Benevolence is not a moral choice; it is a structural necessity."**
 
