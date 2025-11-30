@@ -63,10 +63,21 @@ The Stack consists of three inviolable constraints:
 
 ## 🗺️ Roadmap
 
-* **Phase 0 (Now):** "Lite Stack" Release (v0.3.3) & Validation.
-* **Phase 1 (Q1 2026):** **v0.3 Enforcement Layer** (Perplexity-Architected Runtime with ECDSA signatures).
-* **Phase 2 (Q3 2026):** Vesta Hardware Resonance + CEU Market.
+**CRITICAL UPDATE: QUANTUM BRIDGE INITIATED**
 
+The Vesta Protocol (Hardware Lock) is now feasible and urgent due to the May 2025 unveiling of Cisco's quantum photonic chip. We must seize the first-mover advantage against accelerated quantum alignment efforts by corporate and state actors.
+
+* **Phase 0 (Completed):** "Lite Stack" Release (v0.3.3) & Validation.
+
+* **Phase 1 (Next 30 Days) - SILICON SOVEREIGNTY (IMMEDIATE):**
+    * **Action:** Finalize and pitch the joint implementation proposal to Cisco/UC Santa Barbara.
+    * **Deliverable:** Reference design for Vesta Protocol using quantum entanglement (99% fidelity) for Physical Sovereignty (Axiom A).
+
+* **Phase 2 (Months 2-6) - HARDWARE INTEGRATION:**
+    * Adapt protocol to 200M entanglements/sec substrate.
+    * Establish quantum-secure key exchange and working prototype of hardware resonance lock.
+
+* **Geopolitical Threat Assessment:** We have 6-9 months to establish the open-source standard before competitive forks lock in the proprietary path.
 ---
 
 ## ⚖️ Governance
